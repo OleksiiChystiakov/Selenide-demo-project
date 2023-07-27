@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DEV-UA-NB129",
+    "children" : [ {
+      "name" : "12028@DEV-UA-NB129.Test worker(16)",
+      "children" : [ {
+        "name" : "firstTest()",
+        "uid" : "9837e773f36efe03",
+        "parentUid" : "93946000a17cf2e5c5629952d5eecd60",
+        "status" : "passed",
+        "time" : {
+          "start" : 1690395602595,
+          "stop" : 1690395618918,
+          "duration" : 16323
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "93946000a17cf2e5c5629952d5eecd60"
+    } ],
+    "uid" : "0e0981667de0edb1f6ac3fc42613b106"
+  } ]
+}
